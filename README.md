@@ -16,7 +16,7 @@ A simple and elegant personal library management system built using HTML, Tailwi
 Open `index.html` in your browser to use the app.
 
 ## Screenshots
-*(Insert screenshots here after hosting or using a GitHub markdown image link)*
+![Screenshot 2025-06-18 203205](https://github.com/user-attachments/assets/2caa7eb7-de19-4277-ba5f-b16413be9f98)
 
-## License
-[MIT](LICENSE)
+![Screenshot 2025-06-18 203216](https://github.com/user-attachments/assets/29e0453b-4a13-412d-96a1-e949cbd8ae74)
+
