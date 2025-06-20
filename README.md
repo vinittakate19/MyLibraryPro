@@ -20,3 +20,5 @@ Open `index.html` in your browser to use the app.
 
 ![Screenshot 2025-06-18 203216](https://github.com/user-attachments/assets/29e0453b-4a13-412d-96a1-e949cbd8ae74)
 
+https://www.linkedin.com/posts/vinit-takate-815939252_asep-webdevelopment-librarysystem-activity-7341378940923465728-AeRM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5uQFEBSlHJUOZNCuPio20o-1n93C2tNCI
+
